@@ -2,7 +2,7 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=dhruvil235&theme=github_dark_dimmed&no-frame=false&no-bg=false&margin-w=4)
 # 💫 About Me:
-🔭 I’m currently working on  python tkinter GUI<br><br>🔭 I’m currently working on - Neural Schema <br><br>🌱 I’m currently learning DSA in Python and Tensorflow,Scikit-learn<br><br>👨‍💻 All of my projects are available at https://github.com/dhruvil235 <br><br>📝 I regularly write articles on -<br><br><br>📫 How to reach me dhruvildave235@gmail.com<br><br>⚡ Fun fact I Think I Can Easily Lead Team as a Family.
+🔭 I’m currently working on  Scikit-learn,DL <br><br>🔭 I’m currently working on - NLP  <br><br>🌱 I’m currently learning DSA  and Tensorflow,Scikit-learn<br><br>👨‍💻 All of my projects are available at https://github.com/dhruvil235 <br><br> <br><br>📫 How to reach me dhruvildave235@gmail.com<br><br>⚡ Fun fact I Think I Can Easily Lead Team as a Family.
 
 
 ## 🌐 Socials:
