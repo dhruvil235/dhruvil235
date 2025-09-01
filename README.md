@@ -3,7 +3,7 @@
   <img src="\" />
 </p>
 <br/>
-<h1 align="center">Hi 👋, I'm Om J. Bhisra</h1>
+<h1 align="center">Hi 👋, </h1>
 <h3 align="center">🚀 Building things in AI/ML | Problem Solver</h3>
                                                                                                                                           
 # 💫 About Me:
