@@ -2,6 +2,7 @@
 # 💫 About Me:
 🔭 I’m currently working on AI,ML,DL<br><br>🔭 I’m currently working on - NLP<br><br>🌱 I’m currently learning Tensorflow,Scikit-learn,RAG<br><br>👨‍💻 All of my projects are available at https://github.com/dhruvildave235<br><br>📫 How to reach me : dhruvildave235@gmail.com<br><br>⚡ Fun fact I Think I Can Easily Lead Team as a Family.
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=dhruvildave235&label=Profile%20views&color=0e75b6&style=flat" alt="dhruvildave235" /> </p>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/dhruvil-dave-037a0a326) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:dhruvildave235@gmail.com) 
