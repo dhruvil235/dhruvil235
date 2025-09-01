@@ -3,7 +3,8 @@
   <img src="\" />
 </p>
 <br/>
-
+<h1 align="center">Hi 👋, I'm Om J. Bhisra</h1>
+<h3 align="center">🚀 Building things in AI/ML | Problem Solver</h3>
                                                                                                                                           
 # 💫 About Me:
 🔭 I’m currently working on AI,ML,DL<br><br>🔭 I’m currently working on - NLP<br><br>🌱 I’m currently learning Tensorflow,Scikit-learn,RAG<br><br>👨‍💻 All of my projects are available at https://github.com/dhruvildave235<br><br>📫 How to reach me : dhruvildave235@gmail.com<br><br>⚡ Fun fact I Think I Can Easily Lead Team as a Family.
