@@ -1,10 +1,9 @@
-
-#                                                                               Hi 👋, I'm Dhruvil_Dave  <p align="center">
-  <img src="\" />
+ <p align="center">
+  <img src="https://github.com/dhruvildave235/dhruvildave235/blob/main/dhruvil_dave1.png" />
 </p>
 <br/>
-<h1 align="center">Hi 👋, </h1>
-<h3 align="center">🚀 Building things in AI/ML | Problem Solver</h3>
+<h1 align="center">Hi 👋, I'm Dhruvil_Dave </h1>
+<h3 align="center">Aspiring AI & Software Developer | Passionate about Machine Learning & Intelligent Systems | Problem Solver & Innovator</h3>
                                                                                                                                           
 # 💫 About Me:
 🔭 I’m currently working on AI,ML,DL<br><br>🔭 I’m currently working on - NLP<br><br>🌱 I’m currently learning Tensorflow,Scikit-learn,RAG<br><br>👨‍💻 All of my projects are available at https://github.com/dhruvildave235<br><br>📫 How to reach me : dhruvildave235@gmail.com<br><br>⚡ Fun fact I Think I Can Easily Lead Team as a Family.
